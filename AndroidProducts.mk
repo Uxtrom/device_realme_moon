@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_moon.mk
+    $(LOCAL_DIR)/aosp_moon.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_moon-user \
-    arrow_moon-userdebug \
-    arrow_moon-eng
+    aosp_moon-user \
+    aosp_moon-userdebug \
+    aosp_moon-eng
